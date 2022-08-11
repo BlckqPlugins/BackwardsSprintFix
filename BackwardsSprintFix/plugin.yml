@@ -1,0 +1,5 @@
+name: BackwardsSprintFix
+api: ["4.0.0", "5.0.0"]
+author: BlckqPlugins
+main: blckqplugins\Main
+version: 1.0
